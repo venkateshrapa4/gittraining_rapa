@@ -5,3 +5,4 @@ Inversion, like most other templating systems, works by giving you a way of defi
 
 this is stash lecture, change in fiel2
 this is stash lecture, change in fiel1
+this is stash lecture, change for untracked files in fiel1
