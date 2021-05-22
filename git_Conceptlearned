@@ -1,0 +1,35 @@
+Understating of DevOps & DevOps Process
+Introduction
+What is DevOps || DevOps Tools
+Continuous Development
+4. Continuous Testing 
+Continuous Integration
+ Continuous Deployment & Monitoring
+. Git | WelCome & Goal
+ Key GIT Terminology
+ What is GIT & VCS
+ 10. Bonus : Google Cloud Architect Course
+ . Install GIT on Linux Machine	 
+ . Install GIT on Windows Machine
+  Install GIT on Windows : Text Guide
+  Configure User Information in GIT
+  . Create First GIT Repository
+First GIT Commit
+17. GIT Tracking & GIT Logs
+Section 4: GIT with GITHUB **Advance**
+
+Explore Git with GITHub
+19. Create Remote Repo on GitHub
+0. SetUp Authentication in Local & GitHub
+Create Branches in GIT
+Merge Branches in GIT
+Revert in Previous State in GIT
+Section 5: Comparisons in GIT
+Compare Working Directory & Stage Area
+ Compare Commits in GIT
+ Concept of Branches in GIT
+ Merge Branches in GIT
+ GIT Stash with Example
+  Stash Untracked Files & Git Stash Pop
+  
+==========================
