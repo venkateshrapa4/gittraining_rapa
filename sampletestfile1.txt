@@ -3,3 +3,5 @@ this is sample file 1
 
 Inversion, like most other templating systems, works by giving you a way of defining the static parts of your output, and then letting you combine that at a later point with the dynamic parts:
 
+this is stash lecture, change in fiel2
+this is stash lecture, change in fiel1
