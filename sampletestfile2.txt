@@ -1,1 +1,4 @@
+
+Git revert commit 1 
+
 this is sample file 1
